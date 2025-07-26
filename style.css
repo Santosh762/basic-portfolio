@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 5px;
+  background-color: #f7f7f7;
+}
+.h{
+    background-color: rgb(42, 165, 149);
+width: 350px;
+border-radius: 10px;
+position: absolute;
+  top: 0px;
+  left: 32%;
+}
+
+header {
+  background-color: #fcea9f;
+  color: rgb(28, 25, 25);
+  padding: 40px;
+  text-align: center;
+}
+
+.projects {
+  padding: 20px;
+}
+
+.projects ul {
+  list-style: none;
+  padding: 0;
+}
+
+.projects li {
+  background-color: #f54e4e;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+footer {
+  background-color: #2c85ea;
+  color: rgb(224, 223, 217);
+  text-align: center;
+  padding: 10px;
+  font-size: 16px;
+}
